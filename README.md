@@ -1,5 +1,5 @@
 # <h1 align="center"> 👋 Hi , I'm Oduamadi Ndubuisi</h1>
-<h3 align="center">A passionate DevOps and Cloud Engineer</h3>
+<h3 align="center">A Passionate DevOps and Cloud Engineer</h3>
 
 🔭 I’m currently working on    DevOps and Cloud Projects<br>👯 I’m looking to collaborate on Cloud Computing and Cybersecurity<br>🌱 I’m currently learning DevOps<br>💬 Ask me about Cloud and Cybersecurity <br>📫 How to reach me ndu_euro@outlook.com<br>👨‍💻 All of my projects are available at  https://github.com/odujrn<br>⚡ Fun fact  pevita lovers 💘<br><br>
 
