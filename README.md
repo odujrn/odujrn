@@ -2,7 +2,7 @@
 <h3 align="center">Cloud Security & DevOps Engineer | Cloud Enthusiast | Automation Advocate</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/ndubuisi-oduamadi" target="_blank">
+  <a href="https://www.linkedin.com/in/ndubuisi-oduamadi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ndu_euro@outlook.com" target="_blank">
